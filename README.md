@@ -2,7 +2,7 @@
 
  <div>
   <a href="https://github.com/IPLOM">
-  <img height="180em" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IPLOM&show_icons=true&theme=radical"/>
   <img height="180em" src=""/>
 </div>
 <div style="display: inline_block"><br>
